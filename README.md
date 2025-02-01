@@ -6,9 +6,13 @@
 ✅ I am currently working on Full-Stack projects.<br><br>🤖 I am looking to create some amazing projects integrated with the use of AI.<br><br>🎯 I am looking for a new role.<br><br>🎓 I am a recent graduate in Computer Science.
 
 💡 What I Do:
+
 🔹 Develop Full stack applications with a focus on performance and user experience.
+
 🔹 Explore AI and Machine Learning to integrate smart features into projects.
+
 🔹 Solve problems with C++, Python, and JavaScript.
+
 🔹 Contribute to open-source projects and hackathons.
 
 ## 🌐 Socials:
