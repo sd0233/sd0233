@@ -1,8 +1,15 @@
 ## Hi there I Am Sahil Dhote👋
 
+🚀 Full-Stack Developer | AI Enthusiast | Problem Solver
+
 # 💫 About Me:
 ✅ I am currently working on Full-Stack projects.<br><br>🤖 I am looking to create some amazing projects integrated with the use of AI.<br><br>🎯 I am looking for a new role.<br><br>🎓 I am a recent graduate in Computer Science.
 
+💡 What I Do:
+🔹 Develop Full stack applications with a focus on performance and user experience.
+🔹 Explore AI and Machine Learning to integrate smart features into projects.
+🔹 Solve problems with C++, Python, and JavaScript.
+🔹 Contribute to open-source projects and hackathons.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahil_dhote47) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahil-dhote-116191206/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sahildhote47) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sddhote23@gmail.com) 
@@ -17,4 +24,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sd0233&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+🚀 Always learning, always building!
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
