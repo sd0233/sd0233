@@ -3,7 +3,7 @@
 🚀 Full-Stack Developer | AI Enthusiast | Problem Solver
 
 # 💫 About Me:
-✅ I am currently working on Full-Stack projects.<br><br>🤖 I am looking to create some amazing projects integrated with the use of AI.<br><br>🎯 I am looking for a new role.<br><br>🎓 I am a recent graduate in Computer Science.
+✅ I am currently working on Full-Stack MERN projects.<br><br>🤖 I am looking to create some amazing projects integrated with the use of AI.<br><br>🎯 I am looking for a new role.<br><br>🎓 I am a recent graduate in Computer Science.
 
 💡 What I Do:
 
